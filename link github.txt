@@ -1,0 +1,5 @@
+Link github : https://github.com/aaronbn/MobileApp
+
+Note :
+Jika app stopped working saat pertama kali dibuka, tolong coba lagi.
+Menggunakan Dexter

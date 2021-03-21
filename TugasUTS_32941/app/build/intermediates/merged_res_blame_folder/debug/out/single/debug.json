@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\next.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_halaman_profil.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\halaman_profil.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foto3.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\foto3.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prev.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\prev.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playbutton.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\playbutton.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pop_up_window.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\activity_pop_up_window.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_halaman_login.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\halaman_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_halaman_profil2.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\halaman_profil2.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_song.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\row_song.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_halaman_daftar_lagu.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\halaman_daftar_lagu.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foto.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\foto.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\drawable\\play.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\menu_halaman_daftar_lagu.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\menu\\halaman_daftar_lagu.xml"
+    },
+    {
+        "merged": "D:\\Android\\TugasUTS_32941\\app\\build\\intermediates\\res\\merged\\debug\\layout_halaman_player.xml.flat",
+        "source": "D:\\Android\\TugasUTS_32941\\app\\src\\main\\res\\layout\\halaman_player.xml"
+    }
+]

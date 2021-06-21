@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/backupData"
+        android:orderInCategory="100"
+        android:title="Select Photo for Backup"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/deleteImage"
+        android:orderInCategory="100"
+        android:title="Select Photo to Delete"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

@@ -205,4 +205,12 @@ public class PlayerActivity extends AppCompatActivity {
 
             return time;
         }
+
+    @Override
+    protected void onPause() {
+
+        super.onPause();
+        mediaPlayer.pause();
+
+    }
     }
